@@ -4,4 +4,4 @@
 <a href="https://velog.io/@kimminseo9/SQL-01-1-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0"><img src="https://img.shields.io/badge/01. 데이터베이스 알아보기-0085CA?style=flat-square&logo=velog&logoColor=white"/></a>
 
 ### 02. 실전용 SQL 미리 맛보기 🙂
-<a href="https://velog.io/@kimminseo9/SQL-02-1-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EB%A7%81"><img src="https://img.shields.io/badge/02. 데이터베이스 모델링-0085CA?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@kimminseo9/SQL-02-1-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EB%A7%81"><img src="https://img.shields.io/badge/01. 데이터베이스 모델링-0085CA?style=flat-square&logo=velog&logoColor=white"/></a>
