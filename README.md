@@ -9,3 +9,4 @@
 <a href="https://velog.io/@kimminseo9/SQL-02-3-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B0%9C%EC%B2%B4"><img src="https://img.shields.io/badge/03. 데이터베이스 개체-0085CA?style=flat-square&logo=velog&logoColor=white"/></a>    
     
 ### 03. SQL 기본 문법 🥸
+<a href="https://velog.io/@kimminseo9/SQL-03-1-SELECT-FROM-WHERE"><img src="https://img.shields.io/badge/01. SELECT ~ FROM ~ WHERE-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
