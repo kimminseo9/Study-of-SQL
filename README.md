@@ -11,3 +11,4 @@
 ### 03. SQL 기본 문법 🥸
 <a href="https://velog.io/@kimminseo9/SQL-03-1-SELECT-FROM-WHERE"><img src="https://img.shields.io/badge/01. SELECT ~ FROM ~ WHERE-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
 <a href="https://velog.io/@kimminseo9/SQL-03-2-%EC%A2%80-%EB%8D%94-%EA%B9%8A%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-SELECT-%EB%AC%B8"><img src="https://img.shields.io/badge/02. 좀 더 깊게 알아보는 SELECT 문-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
+<a href="https://velog.io/@kimminseo9/SQL-03-3-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%80%EA%B2%BD%EC%9D%84-%EC%9C%84%ED%95%9C-SQL-%EB%AC%B8"><img src="https://img.shields.io/badge/03. 데이터 변경을 위한 SQL 문-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
