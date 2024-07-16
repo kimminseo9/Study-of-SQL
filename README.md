@@ -15,3 +15,4 @@
     
 ### 04. SQL 고급 문법 😆
 <a href="https://velog.io/@kimminseo9/SQL-04-1-MySQL%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%98%95%EC%8B%9D"><img src="https://img.shields.io/badge/01. MySQL의 데이터 형식-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
+<a href="https://velog.io/@kimminseo9/SQL-04-2-%EB%91%90-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84-%EB%AC%B6%EB%8A%94-%EC%A1%B0%EC%9D%B8"><img src="https://img.shields.io/badge/02. 두 테이블을 묶는 조인-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
