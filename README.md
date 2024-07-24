@@ -22,3 +22,6 @@
 <a href="https://velog.io/@kimminseo9/SQL-05-1-SQL-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%A7%8C%EB%93%A4%EA%B8%B0"><img src="https://img.shields.io/badge/01. SQL 테이블 만들기-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
 <a href="https://velog.io/@kimminseo9/SQL-05-2-%EC%A0%9C%EC%95%BD%EC%A1%B0%EA%B1%B4%EC%9C%BC%EB%A1%9C-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84-%EA%B2%AC%EA%B3%A0%ED%95%98%EA%B2%8C"><img src="https://img.shields.io/badge/02. 제약조건으로 테이블을 견고하게-0085CA?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://velog.io/@kimminseo9/SQL-05-3-%EA%B0%80%EC%83%81%EC%9D%98-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%B7%B0"><img src="https://img.shields.io/badge/03. 가상의 테이블: 뷰-0085CA?style=flat-square&logo=velog&logoColor=white"/></a>
+
+### 06. 인덱스 😜
+<a href="https://velog.io/@kimminseo9/SQL-06-1-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B0%9C%EB%85%90%EC%9D%84-%ED%8C%8C%EC%95%85%ED%95%98%EC%9E%90"><img src="https://img.shields.io/badge/01. 인덱스 개념을 파악하자-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
