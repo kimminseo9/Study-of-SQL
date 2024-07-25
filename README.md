@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=STUDY%20OF%20SQL&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=E9568E&height=300&section=header&text=STUDY%20OF%20SQL&fontSize=90)
 # Study-of-SQL
 
 ### 01. 데이터베이스와 SQL 🧐  
