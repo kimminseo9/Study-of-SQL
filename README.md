@@ -28,3 +28,6 @@
 <a href="https://velog.io/@kimminseo9/SQL-06-1-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B0%9C%EB%85%90%EC%9D%84-%ED%8C%8C%EC%95%85%ED%95%98%EC%9E%90"><img src="https://img.shields.io/badge/01. 인덱스 개념을 파악하자-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
 <a href="https://velog.io/@kimminseo9/SQL-06-2-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%9D%98-%EB%82%B4%EB%B6%80-%EC%9E%91%EB%8F%99"><img src="https://img.shields.io/badge/02. 인덱스의 내부 작동-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
 <a href="https://velog.io/@kimminseo9/SQL-06-3-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%9D%98-%EC%8B%A4%EC%A0%9C-%EC%82%AC%EC%9A%A9"><img src="https://img.shields.io/badge/03. 인덱스의 실제 사용-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
+     
+### 07. 스토어드 프로시저 🥰
+<a href="https://velog.io/@kimminseo9/SQL-07-1-%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95"><img src="https://img.shields.io/badge/01. 스토어드 프로시저 사용 방법-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
