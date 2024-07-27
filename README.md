@@ -31,3 +31,4 @@
      
 ### 07. 스토어드 프로시저 🥰
 <a href="https://velog.io/@kimminseo9/SQL-07-1-%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95"><img src="https://img.shields.io/badge/01. 스토어드 프로시저 사용 방법-0085CA?style=flat-square&logo=velog&logoColor=white"/></a> 
+<a href="https://velog.io/@kimminseo9/SQL-07-2-%EC%8A%A4%ED%86%A0%EC%96%B4%EB%93%9C-%ED%95%A8%EC%88%98%EC%99%80-%EC%BB%A4%EC%84%9C#%EF%B8%8F-%EC%BB%A4%EC%84%9C%EB%A1%9C-%ED%95%9C-%ED%96%89%EC%94%A9-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0"><img src="https://img.shields.io/badge/02. 스토어드 함수와 커서-0085CA?style=flat-square&logo=velog&logoColor=white"/></a>
